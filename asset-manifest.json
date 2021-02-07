@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.5e65f2f0.chunk.css",
-    "main.js": "./static/js/main.c534bd13.chunk.js",
-    "main.js.map": "./static/js/main.c534bd13.chunk.js.map",
+    "main.js": "./static/js/main.b2c8970c.chunk.js",
+    "main.js.map": "./static/js/main.b2c8970c.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
     "static/js/2.9706f1cd.chunk.js": "./static/js/2.9706f1cd.chunk.js",
     "static/js/2.9706f1cd.chunk.js.map": "./static/js/2.9706f1cd.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.f6e3617fdf2ca2ada3ce06db694ac8d8.js": "./precache-manifest.f6e3617fdf2ca2ada3ce06db694ac8d8.js",
+    "precache-manifest.b024aa259d55141924d26fc5fc7a6f36.js": "./precache-manifest.b024aa259d55141924d26fc5fc7a6f36.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.5e65f2f0.chunk.css.map": "./static/css/main.5e65f2f0.chunk.css.map",
     "static/media/Abesit-logo.png": "./static/media/Abesit-logo.cf2777a5.png",
@@ -58,6 +58,6 @@
     "static/js/runtime-main.fff6ee50.js",
     "static/js/2.9706f1cd.chunk.js",
     "static/css/main.5e65f2f0.chunk.css",
-    "static/js/main.c534bd13.chunk.js"
+    "static/js/main.b2c8970c.chunk.js"
   ]
 }
